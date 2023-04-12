@@ -1,6 +1,10 @@
 # Dices_combinations
 
-usage 
+
+
+usage
+
+`npm install`
 
 ```
 npx tsc tester.ts && node tester.js <numberOfDices> <numberOfFaces> <Total>
